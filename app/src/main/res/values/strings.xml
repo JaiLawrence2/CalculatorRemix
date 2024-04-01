@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Lab5A_CS408</string>
+    <string name="tip_percentage">Tip Percentage:</string>
+    <string name="total_bill">Total Bill:</string>
+    <string name="button">Calculate</string>
+    <string name="number_of_people">Number of People:</string>
+    <string name="calculate">Calculate</string>
+    <string name="error_message">invalid</string>
+    <string name="Total_message">Total Per Person: </string>
+    <string name="fahrenheit_text">Fahrenheit:</string>
+    <string name="celsius_text">Celsius:</string>
+    <string name="convertBtn">Convert</string>
+    <string name="kilometers">Kilometers:</string>
+    <string name="miles">Miles:</string>
+</resources>
